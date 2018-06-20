@@ -13,6 +13,6 @@ Step-by-step installation instruction is available here: https://chocolatey.org/
 ## NVDA
 Using chocolatey instalation is very straight-forward
 
-`choco install nvda`
+`choco install nvda -y //-y is important to skip license agreement parts, that can be difficult to ` 
 
 User will be prompted to accept the license.
